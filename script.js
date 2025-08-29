@@ -13,3 +13,6 @@ console.log(Array.isArray (numbers))
 const student ={name:'Rongila Rapsan', job:'khowia dowoia kora'}
 
 console.log(typeof student) 
+
+const x=3;
+isNaN('x')
